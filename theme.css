@@ -6,4 +6,5 @@ body[data-lang="ar"]{font-family:"Noto Naskh Arabic",serif}body[data-lang="en"]{
 .scene-quote{margin:16px 0 22px;padding:11px 17px;border-inline-start:2px solid var(--gold);color:#f2dbc0;font-size:15px;line-height:1.8;font-weight:400;background:linear-gradient(90deg,rgba(233,189,128,.08),transparent);text-shadow:0 2px 12px #000}
 .hero .scene-quote{max-width:470px;margin:22px auto;border:0;background:none;font-size:clamp(17px,2.8vw,22px)}.scene-quote.featured{max-width:680px;margin:20px auto;border:0;background:none;color:var(--cream);font-size:clamp(25px,5vw,47px);line-height:1.7}
 body[data-lang="en"] .scene-quote{font-family:"Cormorant Garamond",Georgia,serif;font-size:18px;line-height:1.55}body[data-lang="en"] .menu-card{text-align:left}body[data-lang="en"] .items strong{text-align:right}
+.counter{display:none!important}
 @media(max-width:480px){.topbar{padding-inline:10px}.brand{font-size:16px}.language-picker{gap:1px;padding:2px}.language-picker button{padding:0 7px;font-size:11px}.menu-card{padding-inline:18px}.scene-quote{font-size:14px;margin-block:10px 16px}.items article{padding:14px 0}}
